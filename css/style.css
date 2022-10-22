@@ -33,6 +33,10 @@
     opacity: 1;
 }
 
+.logo{
+    height: 50px;
+    width: 60px;
+}
 
 /*** Button ***/
 .btn {
