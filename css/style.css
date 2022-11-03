@@ -199,8 +199,8 @@
 
 /*** Facts ***/
 .fact {
-    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/carousel-bg-1.jpg);
-    background-position: center center;
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/index_photo_4.png);
+    background-position: center ;
     background-repeat: no-repeat;
     background-size: cover;
 }
