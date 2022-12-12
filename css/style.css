@@ -386,18 +386,12 @@
     border-right: none;
 }
 <!--Galerie-->
-.close {
-    font-size: 1.5rem;
-  }
-  
-  .col-12 img {
-    opacity: 0.7;
-    cursor: pointer;
-    margin: 2rem;
-    width: 100%;
-  }
-  
-  .col-12 img:hover {
-    opacity: 1;
-      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  }
+.ekko-lightbox-nav-overlay a {
+    color: goldenrod;
+}
+.gallery-title {
+    text-align: center;
+	font-weight: 500;
+	border-bottom: 1px dotted orange;
+	margin-top: 1em;
+}
