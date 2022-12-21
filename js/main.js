@@ -1,12 +1,7 @@
-$(document).on('click', '[data-toggle="lightbox"]', function(event) {
-    event.preventDefault();
-    $(this).ekkoLightbox({alwaysShowClose: true});
-});
-
 
 (function ($) {
     "use strict";
-
+    
     // Spinner
     var spinner = function () {
         setTimeout(function () {
@@ -73,6 +68,7 @@ $(document).on('click', '[data-toggle="lightbox"]', function(event) {
         return false;
     });
 
+  
 
     // Facts counter
     $('[data-toggle="counter-up"]').counterUp({
@@ -112,6 +108,8 @@ $(document).on('click', '[data-toggle="lightbox"]', function(event) {
         }
     });
     
-
+   
 })(jQuery);
+
+ 
 
