@@ -5,6 +5,10 @@
     --light: #F2F2F2;
     --dark: #111111;
 }
+ion-icon {
+    font-size: 44px;
+    padding: 0px 15px 0px 0px;
+  }
 
 .fw-medium {
     font-weight: 600 !important;
@@ -199,7 +203,7 @@
 
 /*** Facts ***/
 .fact {
-    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/index_photo_4.png);
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../foto/foto\ dílny/IMG_20221109_100300.jpg);
     background-position: center ;
     background-repeat: no-repeat;
     background-size: cover;
